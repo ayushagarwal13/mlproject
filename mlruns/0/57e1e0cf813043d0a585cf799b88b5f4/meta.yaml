@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/qeayu/OneDrive/Desktop/MLPROJECT/mlruns/0/57e1e0cf813043d0a585cf799b88b5f4/artifacts
+end_time: 1723768925312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e1e0cf813043d0a585cf799b88b5f4
+run_name: treasured-roo-861
+run_uuid: 57e1e0cf813043d0a585cf799b88b5f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723768916890
+status: 3
+tags: []
+user_id: root
