@@ -120,7 +120,7 @@ class ModelTrainer:
             best_params = params[actual_model]
 
             mlflow.set_registry_uri(
-                "https://dagshub.com/krishnaik06/mlprojecthindi.mlflow")
+                "https://dagshub.com/ayushagarwal13/mlproject.mlflow")
             tracking_url_type_store = urlparse(
                 mlflow.get_tracking_uri()).scheme
 

@@ -10,4 +10,5 @@ xgboost
 Flask
 dill
 mlflow==2.2.2
+mlflow
 #-e .
